@@ -17,6 +17,7 @@ The dataset used in this project is the FIFA 2021 player data, which includes va
 
 ## Repository Structure
 
+```sh
 FIFA_2021_Data_Cleaning/
 ├── data/
 │ ├── fifa_2021_raw.csv # Raw dataset
@@ -24,7 +25,7 @@ FIFA_2021_Data_Cleaning/
 ├── notebooks/
 │ ├── FIFA_2021_Data_Cleaning.ipynb # Jupyter notebook with data cleaning steps
 ├── README.md # Project overview and instructions
-
+```
 
 ## Installation
 
