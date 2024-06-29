@@ -20,7 +20,8 @@ The dataset used in this project is the FIFA 2021 player data, which includes va
 ```sh
 FIFA_2021_Data_Cleaning/
 ├── data/
-│ ├── fifa_2021_raw.csv # Raw dataset
+│ ├── fifa21 raw data v2.csv # Raw dataset
+│ ├── fifa-21-messy-raw-dataset-for-cleaning-exploring # zip folder with two versions of data
 │ ├── fifa_2021_cleaned.csv # Cleaned dataset
 ├── notebooks/
 │ ├── FIFA_2021_Data_Cleaning.ipynb # Jupyter notebook with data cleaning steps
@@ -73,4 +74,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 The dataset is provided by Kaggle, and all credits for the data go to the original authors.
+<<<<<<< HEAD
 Dataset Link: www.kaggle.com
+=======
+>>>>>>> c763b78d2f573bf19cbae5de0e9f8fab50c64311
